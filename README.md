@@ -1,6 +1,6 @@
-[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
+![Banner](https://github.com/teta0412/build-your-own-x/blob/master/feynman.png)
 
-## Build your own &lt;insert-technology-here&gt;
+## Build your own wheel LOL :D;
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
